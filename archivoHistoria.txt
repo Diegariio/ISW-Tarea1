@@ -1,0 +1,39 @@
+Había una vez, en un mundo digital lleno de códigos y algoritmos, un joven llamado Leo. Leo era un estudiante de Ingeniería de Software, apasionado por la tecnología y siempre ansioso por aprender 
+nuevas habilidades. Vivía en un pequeño pueblo donde la mayoría de la gente no comprendía su fascinación por el mundo de los ceros y unos, pero Leo sabía que su destino estaba en el corazón de la 
+programación.
+
+Un día, su profesor anunció una tarea especial. "Esta tarea", dijo el profesor, "no solo evaluará su conocimiento en programación, sino que también les enseñará una lección importante sobre la 
+colaboración y el manejo de proyectos en equipo". Los estudiantes tenían que trabajar en un repositorio compartido, crear ramas, realizar cambios y fusionar sus trabajos, todo mientras utilizaban 
+herramientas básicas como touch y nano.
+
+Leo estaba emocionado. Aunque había escuchado sobre Git y GitHub, nunca había trabajado en un proyecto que involucrara a tantas personas. Decidió comenzar de inmediato.
+
+La aventura comienza:
+
+Leo creó su primera rama, a la que llamó "funcion-mejorada", usando el comando: git checkout -b funcion-mejorada Dentro de esa rama, creó un archivo usando el comando touch: touch nueva_funcion.py Con 
+nano, comenzó a escribir un código simple para una función que calculaba el factorial de un número. Era un pequeño programa, pero Leo sentía orgullo por cada línea que escribía. Después de agregar el 
+archivo a su área de preparación y realizar un commit, Leo se dio cuenta de que había algo más grande en juego. No era solo una tarea; era una lección sobre cómo el software no es solo código. Es 
+comunicación, es colaboración, es crear algo más grande que la suma de sus partes.
+
+El reto:
+
+Con su parte terminada, Leo decidió colaborar con su amiga Sara, quien estaba trabajando en la rama "interface-grafica". Sara había creado una sencilla interfaz gráfica en Python para ingresar el número 
+y mostrar el resultado del cálculo del factorial. Sin embargo, cuando intentaron fusionar sus ramas, ¡ocurrió un conflicto!
+
+Leo se preocupó al ver el mensaje de conflicto en la terminal. Nunca antes había tenido que resolver uno, y por un momento, dudó de sus habilidades. Pero recordó las palabras del profesor: "Los errores 
+y los conflictos son parte del proceso; son oportunidades para aprender". Con cuidado, Leo y Sara revisaron los archivos, línea por línea, resolviendo las diferencias hasta que finalmente lograron 
+fusionar sus ramas.
+
+git merge interface-grafica 
+
+La lección:
+
+Cuando Leo y Sara finalmente subieron el código al repositorio y lo probaron, funcionó a la perfección. La interfaz gráfica ahora podía calcular el factorial de cualquier número, mostrando los 
+resultados en segundos. Fue un pequeño éxito, pero para ellos, significaba mucho más. Habían aprendido no solo a programar, sino también a trabajar juntos, a comunicarse y a superar obstáculos.
+
+La tarea se convirtió en una historia de perseverancia y aprendizaje, una que Leo siempre recordaría. En ese momento, entendió que la Ingeniería de Software no se trataba solo de escribir código. Se 
+trataba de construir puentes entre ideas, personas y tecnología, y eso era lo que realmente lo apasionaba.
+
+Y así, con su proyecto finalizado y una nueva lección aprendida, Leo continuó su camino, sabiendo que cada línea de código que escribiera en el futuro sería parte de algo mucho más grande.
+
+Fin.
